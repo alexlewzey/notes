@@ -1,0 +1,1 @@
+bentoml serve serve_model.py:service --reload

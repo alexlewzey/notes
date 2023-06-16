@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "notes"
+  site-url: "https://alexlewzey.github.io/notes"
+  description: "Notes on topics such as machine learning, deployment and programming"
+  repo-branch: main
+  repo-url: "https://github.com/alexlewzey/notes"

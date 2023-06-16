@@ -1,0 +1,8 @@
+version: "3"
+services:
+  cshafer:
+    image: cshafer
+    volumes:
+      - ./src:/src
+    ports:
+      - 5000:5000
